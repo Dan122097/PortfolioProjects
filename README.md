@@ -41,7 +41,7 @@ I cleaned up the data a little bit, did a lot of exploration and created a few d
 For this project, I sourced a public dataset from kaggle:
 (https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
-I used Python to look for different correlations between variables to see if they had
+I used Python to see if there was any relationship between the variables and the ratings. I created scatter plots with regression lines and different correlation matrixes. I also quantified features like genre, country and company to include them inside the matrixes.
 
 
 
